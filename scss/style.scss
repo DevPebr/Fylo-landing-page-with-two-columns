@@ -609,21 +609,22 @@
                            
                             width: 100%;
                             h2 {
-                                font-size: 1rem;
-                                width: 100%;
+                                font-size: 1.3rem;
+                                padding-bottom: 30px;
+                                width: 350px;
+                                margin: 0 auto;
                             }
 
                             .lsp {
                                 width: 80%;
                                 text-align: left;
                                 margin: 0 auto;
+                                font-weight: 400;
+                                padding-bottom: 15px;
                             }
 
                             .span {
-                                
                                 width: 100%;
-
-                        
                             }
 
                             blockquote {
@@ -650,14 +651,16 @@
                                 
                                 width: 320px;
                                 h3 {
-                                    font-size: 1.2rem;
+                                    font-size: 1.7rem;
+                                    padding-bottom: 15px;
+                                    
                                     width: 100%;
                                     
                                 }
 
                                 p {
-                                    font-size: 1rem;
-                                    width: 100%;
+                                    font-size: 0.9rem;
+                                    width: 90%;
                                     margin: 0 auto;
                                     
                                 }

@@ -655,13 +655,17 @@
     width: 100%;
   }
   * body main .more-about .more-about-content .left-section2 h2 {
-    font-size: 1rem;
-    width: 100%;
+    font-size: 1.3rem;
+    padding-bottom: 30px;
+    width: 350px;
+    margin: 0 auto;
   }
   * body main .more-about .more-about-content .left-section2 .lsp {
     width: 80%;
     text-align: left;
     margin: 0 auto;
+    font-weight: 400;
+    padding-bottom: 15px;
   }
   * body main .more-about .more-about-content .left-section2 .span {
     width: 100%;
@@ -681,12 +685,13 @@
     width: 320px;
   }
   * body main footer .blue-section .footer-section .get-start h3 {
-    font-size: 1.2rem;
+    font-size: 1.7rem;
+    padding-bottom: 15px;
     width: 100%;
   }
   * body main footer .blue-section .footer-section .get-start p {
-    font-size: 1rem;
-    width: 100%;
+    font-size: 0.9rem;
+    width: 90%;
     margin: 0 auto;
   }
   * body main footer .blue-section .footer-section form {
